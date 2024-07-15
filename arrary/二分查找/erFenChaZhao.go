@@ -12,6 +12,7 @@ package 二分查找
 // 输入: nums = [-1,0,3,5,9,12], target = 2
 // 输出: -1
 // 解释: 2 不存在 nums 中因此返回 -1
+// leetcode题目链接 :https://leetcode.cn/problems/binary-search/description/
 func search(nums []int, target int) int {
 	if len(nums) == 0 || target < nums[0] || target > nums[len(nums)-1] {
 		return -1
