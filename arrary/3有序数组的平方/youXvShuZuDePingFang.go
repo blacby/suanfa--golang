@@ -1,4 +1,4 @@
-package 有序数组的平方
+package _有序数组的平方
 
 // 力扣题目链接:https://leetcode.cn/problems/squares-of-a-sorted-array/description/
 //
